@@ -39,7 +39,7 @@
        url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans') format('svg');
 }
-
+/*
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 700;
@@ -53,6 +53,12 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+*/
+
+
+
+    font-family: 'Roboto', sans-serif;
+
 
 body {
   background-image: url("/img/sun-flower-1643794_1920.jpg");
@@ -68,6 +74,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#ffffff;
   margin:0 0 20px;
+}
+h1 {
   text-shadow: 2px 2px #000000;
 }
 
