@@ -68,6 +68,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#ffffff;
   margin:0 0 20px;
+  text-shadow: 2px 2px #000000;
 }
 
 p, ul, ol, table, pre, dl {
