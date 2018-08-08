@@ -3,9 +3,9 @@ body {
 }
 
 .navbar {
-    background: linear-gradient(to right, #F0AF1C ,#D59A1E );
+    background: linear-gradient(to right, #F0AF1C ,#D59A1E, #F0AF1C);
     }
 
 .page-footer {
-    background: linear-gradient(to right, #F0AF1C ,#D59A1E );
+    background: linear-gradient(to right, #F0AF1C ,#D59A1E, #F0AF1C);
 }
