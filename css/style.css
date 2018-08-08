@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to right, #D59A1E , #FDE01B);
+}
+
+.navbar {
+    background: linear-gradient(to right, #F0AF1C ,#D59A1E );
+    }
+
+.page-footer {
+    background: linear-gradient(to right, #F0AF1C ,#D59A1E );
+}
