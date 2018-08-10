@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background: linear-gradient(to right, #F0AF1C ,#D59A1E, #F0AF1C);
+    linear-gradient(to right, #D59A1E, #F0AF1C,#D59A1E);
     }
 
 .page-footer {
